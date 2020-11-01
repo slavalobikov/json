@@ -5,6 +5,21 @@
       "text":"Привет",
       "isDone": false,
       "isEdit":false
-    }
+    },
+    {
+      "id":2,
+      "isCheck": false,
+      "text":"КуКу",
+      "isDone": false,
+      "isEdit":false
+    },
+        {
+      "id":3,
+      "isCheck": false,
+      "text":"ХаюХай",
+      "isDone": false,
+      "isEdit":false
+    },
+    
 ]
   

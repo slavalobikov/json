@@ -1,0 +1,11 @@
+{
+  "z": [
+    {
+      "id":1,
+      "isCheck": false,
+      "text":"Привет",
+      "isDone": false,
+      "isEdit":false
+    }
+  ],
+}
